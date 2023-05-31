@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.btn {
+    border-radius: 5px;
+    border: none;
+    padding: 4px 16px;
+    background-color: #008cba;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover,
+.btn:focus {
+    background-color: #006d9e;
+}
